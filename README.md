@@ -19,10 +19,9 @@
 
 ### 🧠 Research Focus
 
-> **Topic**: Predicting Adverse Drug-Drug Interactions (DDIs) using ML  
-> 🧬 Goal: Enhance patient safety by identifying risky drug combinations early  
-> 📊 Tools: Feature Engineering • Biomedical Datasets • ML Algorithms
-
+**🧪 Topic:** Predicting Adverse Drug-Drug Interactions (DDIs) using ML  
+**🎯 Goal:** Enhance patient safety by identifying risky drug combinations early  
+**🧰 Tools:** Feature Engineering • Biomedical Datasets • ML Algorithms
 ---
 
 ### 🔧 Tech Stack
@@ -40,5 +39,13 @@
 
 ✉️ Email: hairunnisha204@gmail.com
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hairunnisham&show_icons=true&theme=radical" width="45%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hairunnisham&theme=radical" width="45%" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hairunnisham&theme=radical&no-bg=true&margin-w=10" /> </p> <p align="center"> 🌟 Thanks for visiting my profile! </p> ```
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hairun-nisha&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hairun-nisha&theme=radical" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hairun-nisha&theme=radical&no-bg=true&margin-w=10" />
+</p>
