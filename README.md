@@ -9,19 +9,20 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 CSE Student, Class of **2026**
-- 🧠 Passionate about **AI / ML**
-- 🧪 Currently researching **Drug-Drug Interactions (DDI)** using Machine Learning
-- 🛠️ Building cool and meaningful tech projects
+- 🎓 **CSE Student**, Class of 2026  
+- 🧠 Passionate about **AI/ML**, especially in healthcare  
+- 🧪 Currently researching **Drug-Drug Interactions (DDIs)** using Machine Learning  
+- 🛠️ Building **cool and meaningful tech projects**  
 - 💡 Curious by nature, driven by impact
 
 ---
 
 ### 🧠 Research Focus
 
-**🧪 Topic:** Predicting Adverse Drug-Drug Interactions (DDIs) using ML  
-**🎯 Goal:** Enhance patient safety by identifying risky drug combinations early  
-**🧰 Tools:** Feature Engineering • Biomedical Datasets • ML Algorithms
+- **🧪 Topic:** Predicting Adverse Drug-Drug Interactions (DDIs) using ML  
+- **🎯 Goal:** Enhance patient safety by identifying risky drug combinations early  
+- **🧰 Tools:** Feature Engineering • Biomedical Datasets • ML Algorithms
+
 ---
 
 ### 🔧 Tech Stack
@@ -35,7 +36,7 @@
 | Tools      | Git • GitHub • VS Code • Postman • Vite   |
 
 📫 Get in Touch
-🔗 LinkedIn
+🔗 LinkedIn : https://www.linkedin.com/in/hairun-nisha
 
 ✉️ Email: hairunnisha204@gmail.com
 
