@@ -10,7 +10,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 **CSE Student**, Class of 2026  
-- 🧠 Passionate about **AI/ML**, especially in healthcare  
+- 🧠 Passionate about **Software Development** and **AI/ML**, especially in healthcare  
 - 🧪 Currently researching **Drug-Drug Interactions (DDIs)** using Machine Learning  
 - 🛠️ Building **cool and meaningful tech projects**  
 - 💡 Curious by nature, driven by impact
