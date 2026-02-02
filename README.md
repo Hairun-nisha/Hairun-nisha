@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hairun Nisha M</h1>
-<h3 align="center">🚀 CSE Undergrad (2026) | 🤖 AI in Healthcare Enthusiast | 🔬 DDI Researcher | 🛠️ Builder of Cool Stuff</h3>
+<h3 align="center">🚀 CSE Undergrad (2026) | 🛠️ Builder of Cool Stuff</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=Exploring+AI+for+Good.;Researching+DDIs+%2B+Healthcare.;Building+cool+projects+%F0%9F%A4%96;Always+curious+%26+learning+%F0%9F%9A%80" alt="Typing SVG" />
