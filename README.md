@@ -1,45 +1,83 @@
 <h1 align="center">Hi 👋, I'm Hairun Nisha M</h1>
-<h3 align="center">🚀 CSE Undergrad (2026) | 🛠️ Builder of Cool Stuff</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=Exploring+AI+for+Good.;Researching+DDIs+%2B+Healthcare.;Building+cool+projects+%F0%9F%A4%96;Always+curious+%26+learning+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<h3 align="center">🚀 Software Developer | CSE Undergrad (2026) | Building Scalable Applications</h3>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 **CSE Student**, Class of 2026  
-- 🧠 Passionate about **Software Development**  
-- 🛠️ Building **cool and meaningful tech projects**  
-- 💡 Curious by nature, driven by impact
+🎓 Final-Year Computer Science and Engineering Student (CGPA: 7.71)  
+💡 Passionate about Software Development & Problem Solving  
+🛠️ Interested in Backend Systems, Databases & Scalable Applications  
+📍 Tamil Nadu, India  
+
+I’m looking for entry-level opportunities where I can apply my technical skills, learn industry best practices, and contribute to building reliable software systems.
 
 ---
 
+### 💼 Internship Experience
+
+**Software Development Intern**  
+NEC Alumni Association & Vibathi Labs — Oracle Technologies  
+📅 July 2024 – October 2024  
+
+- Developed and maintained applications using Oracle APEX & SQL  
+- Optimized database queries for improved performance  
+- Worked with backend systems and data handling  
+- Participated in code reviews and documentation  
+
 ---
 
-### 🔧 Tech Stack
+### 🚀 Projects
 
-| Category   | Technologies                              |
-|------------|-------------------------------------------|
-| Languages  | Java • Python • SQL • TypeScript          |
-| Frontend   | HTML • CSS • TailwindCSS                  |
-| Backend    | Spring Boot • Flask                       |
-| Database   | PostgreSQL • MySQL                        |
-| Tools      | Git • GitHub • VS Code • Postman • Vite   |
+#### 🔹 SkillSync – Career Guidance System
+- NLP-based resume analyzer  
+- Skill-gap detection and job-role matching  
+- Structured data processing for scalability  
 
-📫 Get in Touch
-🔗 LinkedIn : https://www.linkedin.com/in/hairun-nisha
+#### 🔹 Drug Interaction Predictor
+- Identifies interactions between multiple drugs  
+- Integrated chatbot interface for healthcare queries  
+- Worked with healthcare datasets  
 
-✉️ Email: hairunnisha204@gmail.com
+#### 🔹 Personalized Travel Planner
+- Generates travel itineraries using user preferences  
+- External API integration  
+- Clean UI flow for improved UX  
 
-### 📊 GitHub Stats
+#### 🔹 Netflix Content Analytics Dashboard
+- Built using Power BI & DAX  
+- Large dataset analysis  
+- Visualized trends and insights  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hairun-nisha&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hairun-nisha&theme=radical" width="45%" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hairun-nisha&theme=radical&no-bg=true&margin-w=10" />
-</p>
+### 🛠️ Technical Skills
+
+**Languages:** Java, Python, JavaScript  
+**Web:** HTML, CSS  
+**Database:** MySQL  
+**Tools:** Git, GitHub, VS Code, Oracle APEX  
+**Data Tools:** Power BI  
+**Concepts:** OOP, DBMS, Cloud Computing (AWS Fundamentals)
+
+---
+
+### 📜 Certifications
+
+- Introduction to Prompt Engineering for Generative AI – LinkedIn Learning  
+- DBMS: Fundamentals & Advanced Concepts – Scaler  
+- Data Analytics Job Simulation – Deloitte Australia  
+- Cloud Computing & AWS Fundamentals  
+- CSS3 – Infosys Springboard  
+
+---
+
+### 📫 Connect With Me
+
+📧 Email: hairunnisha204@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/hairun-nisha  
+💻 GitHub: https://github.com/Hairun-nisha  
+
+---
+
+⭐ Open to Software Development & Backend Roles  
