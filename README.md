@@ -10,10 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Building+Secure+%26+Scalable+Web+Applications;Backend+Systems+Enthusiast;REST+API+%26+Database+Design+Focused;Turning+Ideas+Into+Production-Ready+Systems" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=6366F1&height=120&section=header&text=Backend%20Engineer%20in%20Progress&fontSize=30&fontColor=ffffff&animation=fadeIn" />
-</p>
-
 ---
 
 ## 👩🏻‍💻 About Me
