@@ -91,8 +91,8 @@
 
 # 🏢 Internship Experience
 
-**Software Development Intern**  
-NEC Alumni Association & Vibathi Labs  
+**Software Developer Intern**  
+Vibathi Labs, Tamil Nadu
 
 🔹 Backend development using Oracle APEX & SQL  
 🔹 Query optimization & performance improvement  
