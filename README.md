@@ -51,6 +51,16 @@
 
 ---
 
+## 📊 Netflix Content Analytics Dashboard
+
+- Built using Power BI and DAX  
+- Performed large dataset analysis  
+- Designed interactive data visualizations  
+
+---
+
+
+
 # 🛠 Tech Stack
 
 | Category | Technologies |
@@ -58,6 +68,7 @@
 | **Languages** | Java, Python, JavaScript |
 | **Frontend** | React.js, HTML5, CSS3, Tailwind CSS |
 | **Backend** | Node.js, Express.js |
+| **Data Analytics** | PowerBI , Data Visualization |
 | **Database** | PostgreSQL, MySQL |
 | **Authentication** | JWT, bcrypt |
 | **Tools** | Git, GitHub, VS Code, Postman |
