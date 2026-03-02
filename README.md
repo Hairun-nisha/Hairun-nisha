@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  💻 Full Stack Developer | Backend-Focused | CSE '26
+  💻 Software Developer | Backend-Focused | CSE '26
 </h3>
 
 <p align="center">
