@@ -5,91 +5,88 @@
 <h3 align="center">
   💻 Full Stack Developer | Backend-Focused | CSE '26
 </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Backend+Systems+Enthusiast;Building+Secure+Scalable+Apps;Always+Learning+🚀" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;Backend+Development+Enthusiast;Problem+Solver+%F0%9F%92%BB;Always+Learning+New+Tech+%F0%9F%9A%80" /> </p>
 
 ---
 
 ## 👩🏻‍💻 About Me
 
 🎓 Final-Year Computer Science Student (CGPA: 7.71)  
-🧠 Backend-focused developer passionate about scalable systems  
-🔐 Interested in APIs, authentication systems & database design  
+🔐 Backend-focused developer passionate about APIs & database systems  
+📊 Interested in scalable architectures & real-time analytics  
 📍 Tamil Nadu, India  
 
-💬 *“I design and build secure, scalable applications that solve real problems.”*
+> “I design and build reliable systems that solve real-world problems.”
 
 ---
 
 # 🚀 Featured Projects
 
----
-
 ## 💰 FinTrack – Finance & Trip Management System
 
-🔹 Full-stack web app built with **React, Node.js, Express & PostgreSQL**  
-🔹 Secure **JWT authentication** with password hashing (bcrypt)  
-🔹 Real-time income & expense analytics dashboard  
-🔹 Trip-based budget tracking with dynamic visualizations  
-🔹 CSV export & protected routes  
-
-> A production-style financial management system with REST APIs and relational database design.
+- Developed a full-stack web application using React, Node.js, Express, and PostgreSQL  
+- Implemented JWT authentication and secure password hashing (bcrypt)  
+- Built REST APIs for income, expense, and trip budget management  
+- Integrated real-time dashboard analytics with dynamic data visualization  
+- Added CSV export and protected routes for secure user access  
 
 ---
 
 ## 🧠 SkillSync – Career Guidance System
 
-🔹 Resume analysis & skill-gap detection  
-🔹 Job-role recommendation logic  
-🔹 Structured backend data processing  
-🔹 Built for scalable career guidance automation  
+- Designed resume analysis system for skill-gap detection  
+- Implemented backend logic for job-role recommendations  
+- Built structured data processing workflows  
 
 ---
 
 ## 💊 Drug Interaction Predictor
 
-🔹 Detects drug-drug interactions using healthcare datasets  
-🔹 Integrated chatbot interface  
-🔹 Backend data validation & logic handling  
+- Built application to detect drug-drug interactions  
+- Integrated chatbot interface  
+- Implemented backend validation and dataset handling  
 
 ---
 
 ## 📊 Netflix Content Analytics Dashboard
 
-🔹 Built using **Power BI & DAX**  
-🔹 Large dataset trend analysis  
-🔹 Interactive data visualizations  
+- Built using Power BI and DAX  
+- Performed large dataset analysis  
+- Designed interactive data visualizations  
 
 ---
 
 # 🛠 Tech Stack
 
-### 👩‍💻 Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
-</p>
+| Category | Technologies |
+|-----------|-------------|
+| **Languages** | Java, Python, JavaScript |
+| **Frontend** | React.js, HTML5, CSS3, Tailwind CSS |
+| **Backend** | Node.js, Express.js |
+| **Database** | PostgreSQL, MySQL |
+| **Authentication** | JWT, bcrypt |
+| **Tools** | Git, GitHub, VS Code, Postman |
+| **Concepts** | REST APIs, CRUD Operations, DBMS, OOP, Relational Database Design |
 
-### 🌐 Frontend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
+---
 
-### 🧠 Backend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+# 🏢 Internship Experience
 
-### 🗄 Database
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
+**Software Development Intern**  
+NEC Alumni Association & Vibathi Labs  
 
-### 🛠 Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+- Developed backend applications using Oracle APEX & SQL  
+- Optimized database queries for improved performance  
+- Participated in debugging, testing, and documentation  
+
+---
+
+# 🏆 Certifications
+
+- AWS Fundamentals  
+- DBMS Fundamentals  
+- Data Analytics Simulation – Deloitte  
+- Prompt Engineering  
 
 ---
 
@@ -99,26 +96,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Hairun-nisha&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hairun-nisha&theme=tokyonight&hide_border=true" width="45%" />
 </p>
-
----
-
-# 🏢 Internship Experience
-
-**Software Development Intern**  
-NEC Alumni Association & Vibathi Labs  
-
-🔹 Developed applications using Oracle APEX & SQL  
-🔹 Optimized database queries for performance  
-🔹 Worked on backend systems & data handling  
-
----
-
-# 🏆 Certifications
-
-🎓 AWS Fundamentals  
-🎓 DBMS  
-🎓 Data Analytics – Deloitte  
-🎓 Prompt Engineering  
 
 ---
 
