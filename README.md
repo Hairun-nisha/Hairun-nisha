@@ -14,7 +14,7 @@
 
 ## 👩🏻‍💻 About Me
 
-🎓 Final-Year Computer Science Student (CGPA: 7.71)  
+🎓 Final-Year Computer Science Student (CGPA: 7.7)  
 🔐 Backend-focused developer passionate about APIs & relational databases  
 📊 Strong interest in scalable architecture & real-time analytics  
 📍 Tamil Nadu, India  
